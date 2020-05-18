@@ -1,0 +1,11 @@
+{
+  "name": "incometax_calculator",
+  "version": "1.0.0",
+  "description": "This is simple incometax calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tankar Shah",
+  "license": "ISC"
+}
